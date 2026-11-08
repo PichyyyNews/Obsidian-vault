@@ -1,0 +1,11 @@
+# Obsidian runtime & caches
+Pichyy/.obsidian/workspace.json
+Pichyy/.obsidian/workspace-mobile.json
+Pichyy/.obsidian/cache/
+Pichyy/.obsidian/.trash/
+
+# OS and Temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
